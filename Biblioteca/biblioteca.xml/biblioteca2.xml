@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biblioteca>
+    <libro id="1">
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <genero>Novela, Parodia</genero>
+        <publicacion>16/01/1605</publicacion>
+        <paginas>1305</paginas>
+    </libro>
+    <libro id="2">
+        <titulo>Episodios Nacionales</titulo>
+        <autor>Miguel Delibes</autor>
+        <genero>Novela, Historica</genero>
+        <publicacion>16/01/1955</publicacion>
+        <paginas>1305</paginas>
+    </libro>
+    <libro id="3">
+        <titulo>Tuareg</titulo>
+        <autor>Alberto Vazquez Figueroa</autor>
+        <genero>Novela, Historica</genero>
+        <publicacion>16/01/1985</publicacion>
+        <paginas>1105</paginas>
+    </libro>
+</biblioteca>
